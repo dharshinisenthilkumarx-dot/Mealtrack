@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery Order Tracker",
+  "description": "Real-time food delivery tracking application connecting customers, restaurants, and delivery partners with dynamic ETA calculations and live stage progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
